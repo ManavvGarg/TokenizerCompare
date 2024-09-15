@@ -1,0 +1,6 @@
+numpy
+datasets
+transformers
+spacy
+contractions
+matplotlib
